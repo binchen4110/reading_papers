@@ -22,7 +22,7 @@ _In June 2023, I wrote the blog post [The How and Why of Reading 300 Papers in 5
 #### Papers Read in 2024:
 
 ##### [2024-05-12] [paper3]
-- NativE: Multi-modal Knowledge Graph Completion in the Wild [[pdf]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171259566.60211714/v1) [[annotated pdf]](https://github.com/fregu856/papers/blob/master/commented_pdfs/Gaussian%20Process%20Behaviour%20in%20Wide%20Deep%20Neural%20Networks.pdf)
+- NativE: Multi-modal Knowledge Graph Completion in the Wild [[pdf]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171259566.60211714/v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/NativE%20Multi-modal%20Knowledge%20Graph%20Completion%20in%20the%20Wild.pdf)
 - *Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen*
 - `SIGIR 2024`
 - [Multimodal KGC]
@@ -38,7 +38,7 @@ Personal comment (in detail)
 ```
 
 ##### [2024-05-11] [paper2]
-- Learnable Pillar-based Re-ranking for Image-Text Retrieval [[pdf]](https://arxiv.org/pdf/2304.12570) [[annotated pdf]](https://github.com/fregu856/papers/blob/master/commented_pdfs/Gaussian%20Process%20Behaviour%20in%20Wide%20Deep%20Neural%20Networks.pdf)
+- Learnable Pillar-based Re-ranking for Image-Text Retrieval [[pdf]](https://arxiv.org/pdf/2304.12570) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Learnable%20Pillar-based%20Re-ranking%20for%20Image-Text%20Retrieval.pdf)
 - *Leigang Qu, Meng Liu, Wenjie Wang, Zhedong Zheng, Liqiang Nie, Tat-Seng Chua*
 - `SIGIR 2023`
 - [Multimodal] [Multimodal Retrieval]
