@@ -54,7 +54,7 @@ Image2text的检索任务；在re-ranking阶段，使用Image的跨模态和本�
 ```
 
 ##### [2024-05-10] [paper1]
-- Composed Image Retrieval with Text Feedback via Multi-grained Uncertainty Regularization [[pdf]](https://arxiv.org/pdf/2211.07394v6) [[annotated pdf]](https://github.com/fregu856/papers/blob/master/commented_pdfs/Gaussian%20Process%20Behaviour%20in%20Wide%20Deep%20Neural%20Networks.pdf)
+- Composed Image Retrieval with Text Feedback via Multi-grained Uncertainty Regularization [[pdf]](https://arxiv.org/pdf/2211.07394v6) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Composed%20Image%20Retrieval%20with%20Text%20Feedback%20via%20Multi-grained%20Uncertainty%20Regularization.pdf)
 - *Yiyang Chen, Zhedong Zheng, Wei Ji, Leigang Qu, Tat-Seng Chua*
 - `ICLR 2024`
 - [Multimodal] [Multimodal Retrieval]
