@@ -29,7 +29,7 @@ a little novel; the proposed "Wild" scenarios problem is interesting; easy to re
 ```
 
 ```
-Personal comment (in detail)
+Personal comment (in detail):
 解决多模态KGC中的模态diversity和imbalanced 问题，设计了relation-guide的多模态融合机制；此外设计了GAN，对抗训练机制来提升表示学习和模型鲁棒性，并理论上证明了基于RotatE的score function满足K-Lipschitz约束，理论上证明了对抗训练机制的有用性；
 
 时间效率的figure画法很有意思。总的来说，方法不是那么惊艳。
