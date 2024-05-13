@@ -2,7 +2,7 @@
 
 ## Stay active in learning, one paper a day! 
 
-Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and write comments for all research papers I read (3+ papers since 2024). 
+Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and write comments for all research papers I read (4 papers since 2024). 
 
 
 #### Categories:
