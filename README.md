@@ -19,7 +19,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 #### Papers Read in 2024:
 
 ##### [2024-05-13] [paper4]
-- MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2404.09468v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/NativE%20Multi-modal%20Knowledge%20Graph%20Completion%20in%20the%20Wild.pdf)
+- MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2404.09468v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/MyGO%20Discrete%20Modality%20Information%20as%20Fine-Grained%20Tokens%20for.pdf)
 - *Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Huajun Chen, Wen Zhang*
 - `MM 2024`
 - [Multimodal KGC] [Contrastive Learning]
