@@ -7,16 +7,33 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 #### Categories:
 
-[Uncertainty], [MultiModal], [MultiModal KGC], [TKG], [Multimodal Retrieval],
+[Uncertainty], [MultiModal], [MultiModal KGC], [TKG], [Multimodal Retrieval], [Contrastive Learning],
 
 
 ### Papers:
 
 - [Papers Read in 2024](#papers-read-in-2024)
-- [Papers Read in 2023](#papers-read-in-2023)
+
 
 
 #### Papers Read in 2024:
+
+##### [2024-05-13] [paper4]
+- MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2404.09468v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/NativE%20Multi-modal%20Knowledge%20Graph%20Completion%20in%20the%20Wild.pdf)
+- *Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Huajun Chen, Wen Zhang*
+- `MM 2024`
+- [Multimodal KGC] [Contrastive Learning]
+```
+General comments on paper quality:
+fairly novel; the proposed "fine-grained" is interesting; easy to read;
+```
+
+```
+Personal comment (in detail):
+捕获更细粒度的多模态信息交互；代替直接编码各个模态信息，而是采用Tokenization，编码为token, 再使用transformer融合多模态多token的细粒度的信息，学习其交互；figure 5不太明白；此外，还采用了对比学习来提升表示学习。
+
+（感悟：对比学习和GAN之类的对抗训练都可以提升表示，即可以互换）
+```
 
 ##### [2024-05-12] [paper3]
 - NativE: Multi-modal Knowledge Graph Completion in the Wild [[pdf]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171259566.60211714/v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/NativE%20Multi-modal%20Knowledge%20Graph%20Completion%20in%20the%20Wild.pdf)
