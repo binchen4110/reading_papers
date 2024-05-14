@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-14] [paper5]
-- InstantID: Zero-shot Identity-Preserving Generation in Seconds [[pdf]](https://arxiv.org/pdf/2401.07519) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/MyGO%20Discrete%20Modality%20Information%20as%20Fine-Grained%20Tokens%20for.pdf)
+- InstantID: Zero-shot Identity-Preserving Generation in Seconds [[pdf]](https://arxiv.org/pdf/2401.07519) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/InstantID%20Zero-shot%20Identity-Preserving%20Generation%20in%20Seconds.pdf)
 - *Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang, Yao Hu*
 - `Arxiv 2024`
 - [CV] [Image Edit] [Diffusion model]
