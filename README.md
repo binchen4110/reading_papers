@@ -7,7 +7,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 #### Categories:
 
-[Uncertainty], [MultiModal], [MultiModal KGC], [TKG], [Multimodal Retrieval], [Contrastive Learning],
+[Uncertainty], [MultiModal], [MultiModal KGC], [TKG], [Multimodal Retrieval], [Contrastive Learning], [CV], [Image Edit], [Diffusion model]
 
 
 ### Papers:
@@ -17,6 +17,24 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 #### Papers Read in 2024:
+
+
+##### [2024-05-14] [paper5]
+- InstantID: Zero-shot Identity-Preserving Generation in Seconds [[pdf]](https://arxiv.org/pdf/2401.07519) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/MyGO%20Discrete%20Modality%20Information%20as%20Fine-Grained%20Tokens%20for.pdf)
+- *Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang, Yao Hu*
+- `Arxiv 2024`
+- [CV] [Image Edit] [Diffusion model]
+```
+General comments on paper quality:
+fairly novel; very very interesting; easy to read but the topic is unfamiliar to me; like by Lecun; 
+```
+
+```
+Personal comment (in detail):
+图像合成任务（ai换脸+风格迁移+图像编辑）；高效生成的同时，保存高保真度，就如题目中的"In Seconds"一样。核心部分为2个，一是Image Adapter，主要用于生成image prompt;二是IdentityNet，主要用于丰富面部信息如pose,表情等捕捉。
+
+小红书出品，有Demo可以玩，效果还可以，挺有意思的。
+```
 
 ##### [2024-05-13] [paper4]
 - MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion [[pdf]](https://arxiv.org/pdf/2404.09468v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/MyGO%20Discrete%20Modality%20Information%20as%20Fine-Grained%20Tokens%20for.pdf)
