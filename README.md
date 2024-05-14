@@ -26,7 +26,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 - [CV] [Image Edit] [Diffusion model]
 ```
 General comments on paper quality:
-fairly novel; very very interesting; easy to read but the topic is unfamiliar to me; like by Lecun; 
+fairly novel; very very interesting; easy to read but the topic is unfamiliar to me; like from Lecun; 
 ```
 
 ```
