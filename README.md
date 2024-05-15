@@ -21,7 +21,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-15] [paper6]
-- From Local to Global: A Graph RAG Approach to Query-Focused Summarization [[pdf]](https://arxiv.org/pdf/2404.16130) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/InstantID%20Zero-shot%20Identity-Preserving%20Generation%20in%20Seconds.pdf)
+- From Local to Global: A Graph RAG Approach to Query-Focused Summarization [[pdf]](https://arxiv.org/pdf/2404.16130) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/From%20Local%20to%20Global%20A%20Graph%20RAG%20Approach%20to.pdf)
 - *Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson*
 - `Arxiv 2024`
 - [LLM] [RAG] [Graph] [Query-Focused Summarization]
