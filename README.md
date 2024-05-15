@@ -19,6 +19,25 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 #### Papers Read in 2024:
 
 
+
+##### [2024-05-15] [paper6]
+- From Local to Global: A Graph RAG Approach to Query-Focused Summarization [[pdf]](https://arxiv.org/pdf/2404.16130) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/InstantID%20Zero-shot%20Identity-Preserving%20Generation%20in%20Seconds.pdf)
+- *Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson*
+- `Arxiv 2024`
+- [LLM] [RAG] [Graph] [Query-Focused Summarization]
+```
+General comments on paper quality:
+a little novel; very industrial and interesting; easy to read;
+```
+
+```
+Personal comment (in detail):
+利用RAG和graph_index技术去解决Query-focused summarization任务，主要创新点，个人任务来源于整个pipline的制定，引入了graph分区，及各个graph分区上的总结抽取技术。有点分布式提取相关总结，再合并的味道；全流程包括KG的生成，相应元素及各分区的总结都由LLM生成; Figure4看不明白；
+
+该技术算是对主流embedding-based RAG技术的一种补充。技术味道浓厚。
+微软出品，挺有意思的。
+```
+
 ##### [2024-05-14] [paper5]
 - InstantID: Zero-shot Identity-Preserving Generation in Seconds [[pdf]](https://arxiv.org/pdf/2401.07519) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/InstantID%20Zero-shot%20Identity-Preserving%20Generation%20in%20Seconds.pdf)
 - *Qixun Wang, Xu Bai, Haofan Wang, Zekui Qin, Anthony Chen, Huaxia Li, Xu Tang, Yao Hu*
