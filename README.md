@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-16] [paper7]
-- Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering [[pdf]](https://arxiv.org/pdf/2404.17723) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/From%20Local%20to%20Global%20A%20Graph%20RAG%20Approach%20to.pdf)
+- Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering [[pdf]](https://arxiv.org/pdf/2404.17723) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Retrieval-Augmented%20Generation%20with%20Knowledge%20Graphs%20for.pdf)
 - *Zhentao Xu, Mark Jerome Cruz, Matthew Guevara, Tie Wang, Manasi Deshpande, Xiaofeng Wang, Zheng Li*
 - `SIGIR 2024`
 - [LLM] [RAG] [KG] [QA System]
