@@ -22,7 +22,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 ##### [2024-05-17] [paper8]
 - Tackling Long-Tail Entities for Temporal Knowledge Graph Completion [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651565) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Tackling%20Long-Tail%20Entities%20for%20Temporal%20Knowledge%20Graph.pdf)
-- * Mehrnoosh Mirtaheri, Ryan A. Rossi, Sungchul Kim, Kanak Mahadik, Tong Yu, Xiang Chen, Mohammad Rostami*
+- *Mehrnoosh Mirtaheri, Ryan A. Rossi, Sungchul Kim, Kanak Mahadik, Tong Yu, Xiang Chen, Mohammad Rostami*
 - `WWW 2024`
 - [TKG] [continual Learning] [Anti-forgetting learning]
 ```
