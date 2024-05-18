@@ -21,7 +21,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-18] [paper9]
-- AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities [[pdf]](https://arxiv.org/pdf/2308.04992) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Tackling%20Long-Tail%20Entities%20for%20Temporal%20Knowledge%20Graph.pdf)
+- AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities [[pdf]](https://arxiv.org/pdf/2308.04992) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/AspectMMKG%20A%20Multi-modal%20Knowledge%20Graph%20with.pdf)
 - *Jingdan Zhang, Jiaan Wang, Xiaodan Wang, Zhixu Li, Yanghua Xiao*
 - `CIKM 2023`
 - [MultiModal] [KG] [Image Retrieval] [Multimodal Retrieval]
