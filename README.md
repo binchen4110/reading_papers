@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-22] [paper10]
-- InstructEdit: Instruction-Based Knowledge Editing for Large Language Models [[pdf]](https://arxiv.org/pdf/2402.16123) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/AspectMMKG%20A%20Multi-modal%20Knowledge%20Graph%20with.pdf)
+- InstructEdit: Instruction-Based Knowledge Editing for Large Language Models [[pdf]](https://arxiv.org/pdf/2402.16123) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/InstructEdit%20Instruction-Based%20Knowledge%20Editing%20for%20Large%20Language%20Models.pdf)
 - *Ningyu Zhang, Bozhong Tian, Siyuan Cheng, Xiaozhuan Liang, Yi Hu, Kouying Xue, Yanjie Gou, Xi Chen, Huajun Chen*
 - `IJCAI 2024`
 - [Knowledge Edit]
