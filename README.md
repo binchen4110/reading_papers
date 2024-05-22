@@ -7,7 +7,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 #### Categories:
 
-[Uncertainty], [MultiModal], [MultiModal KGC], [TKG], [Multimodal Retrieval], [Contrastive Learning], [CV], [Image Edit], [Diffusion model], [LLM], [RAG], [Graph], [Query-Focused Summarization], [KG], [QA System], [continual Learning], [Anti-forgetting learning], [Image Retrieval], [Knowledge Edit], [Joint prediction],
+[Uncertainty], [MultiModal], [MultiModal KGC], [TKG], [Multimodal Retrieval], [Contrastive Learning], [CV], [Image Edit], [Diffusion model], [LLM], [RAG], [Graph], [Query-Focused Summarization], [KG], [QA System], [continual Learning], [Anti-forgetting learning], [Image Retrieval], [Knowledge Edit], [Joint Predictive Distributions],
 
 
 ### Papers:
@@ -23,7 +23,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 - Epistemic Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08924) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Epistemic%20Neural%20Networks.pdf)
 - *Ian Osband, Zheng Wen, Seyed Mohammad Asghari, Vikranth Dwaracherla, Morteza Ibrahimi, Xiuyuan Lu, Benjamin Van Roy*
 - `Neurips 2023`
-- [Uncertainty] [Joint prediction]
+- [Uncertainty] [Joint Predictive Distributions]
 ```
 General comments on paper quality:
 interesting and solid; half-easy and half-hard to read;
@@ -35,7 +35,7 @@ Epistemic uncertainty; 不同于BNN(Beyesian Neural Networks )的一个范式---
 
 数学过多，原理看不太懂；
 
-感悟: 大佬的工作都就具有连续性，这篇又是基于之前的几篇有关Joint Prediction的工作完成的；
+感悟: 大佬的工作都就具有连续性，这篇又是基于之前的几篇有关Joint Predictive Distributions的工作完成的；
 ```
 
 ##### [2024-05-20] [paper10]
