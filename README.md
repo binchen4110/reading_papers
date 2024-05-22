@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-22] [paper11]
-- Epistemic Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08924) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/InstructEdit%20Instruction-Based%20Knowledge%20Editing%20for%20Large%20Language%20Models.pdf)
+- Epistemic Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08924) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Epistemic%20Neural%20Networks.pdf)
 - *Ian Osband, Zheng Wen, Seyed Mohammad Asghari, Vikranth Dwaracherla, Morteza Ibrahimi, Xiuyuan Lu, Benjamin Van Roy*
 - `Neurips 2023`
 - [Uncertainty] [Joint prediction]
