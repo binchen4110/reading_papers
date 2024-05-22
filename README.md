@@ -34,6 +34,8 @@ Personal comment (in detail):
 Epistemic uncertainty; 不同于BNN(Beyesian Neural Networks )的一个范式----ENN (Epistemic Neural Networks); 不是学习参数的分布，而是从joint predictions的角度出发，额外加一个小网络结构（名为epinet）建模epistemic uncertainty; 
 
 数学过多，原理看不太懂；
+
+感悟: 大佬的工作都就具有连续性，这篇又是基于之前的几篇有关Joint Prediction的工作完成的；
 ```
 
 ##### [2024-05-20] [paper10]
