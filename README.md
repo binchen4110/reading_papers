@@ -2,7 +2,7 @@
 
 ## Stay active in learning, one paper a day! 
 
-Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and write comments for all research papers I read (11 papers since 2024). 
+Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and write comments for all research papers I read (12 papers since 2024). 
 
 
 #### Categories:
@@ -18,6 +18,26 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 #### Papers Read in 2024:
 
+
+##### [2024-05-23] [paper12]
+- IMF: Interactive Multimodal Fusion Model for Link Prediction [[pdf]](https://arxiv.org/pdf/2303.10816) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Epistemic%20Neural%20Networks.pdf)
+- *Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing*
+- `WWW 2023`
+- [MultiModal] [MultiModal Fusion] [MultiModal KGC]
+```
+General comments on paper quality:
+a little novel; easy to read;
+```
+
+```
+Personal comment (in detail):
+KG上的多模态融合问题，提出了two-stage 融合策略（特征级别的融合，和，决策级别的融合），三个创新点：（1）Tucker decomposition实现特征级的模态融合；（2）对比学习提升表示；（3）多个loss相加，实现决策级别的融合（这在多模态领域应该算是个提升学习的trick，不能算创新点）。
+
+Figure 4和Figure 7有意思，值得参考。
+
+泛化性：应当是指模型在OOD数据上的表现情况。
+疑问：深度学习论文中的泛化性实验通常是如何做的？
+```
 
 ##### [2024-05-22] [paper11]
 - Epistemic Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08924) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Epistemic%20Neural%20Networks.pdf)
@@ -35,7 +55,7 @@ Epistemic uncertainty; 不同于BNN(Beyesian Neural Networks )的一个范式---
 
 数学过多，原理看不太懂；
 
-感悟: 大佬的工作都就具有连续性，这篇又是基于之前的几篇有关Joint Predictive Distributions的工作完成的；
+感悟: 大佬的工作一般都具有连续性，这篇又是基于之前的几篇有关Joint Predictive Distributions的工作完成的；
 ```
 
 ##### [2024-05-20] [paper10]
