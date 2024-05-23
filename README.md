@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-23] [paper12]
-- IMF: Interactive Multimodal Fusion Model for Link Prediction [[pdf]](https://arxiv.org/pdf/2303.10816) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Epistemic%20Neural%20Networks.pdf)
+- IMF: Interactive Multimodal Fusion Model for Link Prediction [[pdf]](https://arxiv.org/pdf/2303.10816) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/IMF%20Interactive%20Multimodal%20Fusion%20Model%20for%20Link%20Prediction.pdf)
 - *Xinhang Li, Xiangyu Zhao, Jiaxing Xu, Yong Zhang, Chunxiao Xing*
 - `WWW 2023`
 - [MultiModal] [MultiModal Fusion] [MultiModal KGC]
