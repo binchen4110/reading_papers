@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-24] [paper13]
-- Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs [[pdf]](https://openreview.net/pdf?id=NqbktPUkZf7) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/IMF%20Interactive%20Multimodal%20Fusion%20Model%20for%20Link%20Prediction.pdf)
+- Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs [[pdf]](https://openreview.net/pdf?id=NqbktPUkZf7) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Neural%20Temporal%20Walks%20Motif-Aware%20Representation.pdf)
 - *Ming Jin, Yuan-Fang Li, Shirui Pan*
 - `NeurIPS 2022`
 - [Dynamic GNN] [Continuous time] [temporal walk] [Motif]
