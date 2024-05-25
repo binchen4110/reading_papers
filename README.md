@@ -20,7 +20,7 @@ Motivated by [Fredrik](https://www.fregu856.com/), I categorize, annotate and wr
 
 
 ##### [2024-05-25] [paper14]
-- FineRec: Exploring Fine-grained Sequential Recommendation [[pdf]](https://arxiv.org/pdf/2404.12975v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/Neural%20Temporal%20Walks%20Motif-Aware%20Representation.pdf)
+- FineRec: Exploring Fine-grained Sequential Recommendation [[pdf]](https://arxiv.org/pdf/2404.12975v1) [[annotated pdf]](https://github.com/binchen4110/reading_papers/blob/main/commented_pdfs/FineRec%20Exploring%20Fine-grained%20Sequential%20Recommendation.pdf)
 - *Xiaokun Zhang, Bo Xu, Youlin Wu, Yuan Zhong, Hongfei Lin, Fenglong Ma*
 - `SIGIR 2024`
 - [Sequential Recommendation] [Fine-grained modeling]
