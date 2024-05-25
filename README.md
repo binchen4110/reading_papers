@@ -32,7 +32,9 @@ novel; interesting; easy to read;
 
 ```
 Personal comment (in detail):
- Fine-grained Sequential Recommendation; fine-grained体现在相较于其他使用review的方法，它利用到了review中attribute-specific 的opinion, 属于数据挖掘中对信息的细粒充分应用的创新。主要创新点如下：（1）LLM抽取review中attribute-specific的opinion;（2）为每个attribute做一个融入了opinion 的user-item观点交互图，并使用RGCN进行细粒度建模；(3)使用user与item，item-item,user-user间的交互（直接的和间接的）进行学习；（4）decoder时，同时考虑到长短期依赖，并使用最近l段时间的交互作为短期依赖。
+ Fine-grained Sequential Recommendation; fine-grained体现在相较于其他使用review的方法，它利用到了review中attribute-specific 的opinion, 属于数据挖掘中对信息的细粒充分应用的创新。
+主要创新点如下：（1）LLM抽取review中attribute-specific的opinion;（2）为每个attribute做一个融入了opinion 的user-item观点交互图，并使用RGCN进行细粒度建模；
+(3)使用user与item，item-item,user-user间的交互（直接的和间接的）进行学习；（4）decoder时，同时考虑到长短期依赖，并使用最近l段时间的交互作为短期依赖。
 ```
 
 ##### [2024-05-24] [paper13]
